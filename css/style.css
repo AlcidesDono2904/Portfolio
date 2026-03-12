@@ -1,0 +1,60 @@
+.header {
+  background-color: #F5F5F5;
+  padding: 2rem 1rem;
+}
+
+.hero-card {
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 0;
+  overflow: hidden;
+}
+
+.hero-card .card-img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.card-img-overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.center-content {
+  text-align: center;
+  margin: 0;
+  background-color: rgba(128, 128, 128, 0.7);
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+}
+
+.main {
+  background-color: #FFFFFF;
+}
+
+article.topics {
+  padding: 1%;
+  
+}
+
+.topics .card-img-top {
+  max-width: 230px;
+  height: auto;
+}
+
+.topics {
+    margin: auto;
+    margin: 2%;
+    margin-top: 0%;
+}
+
+a.topic-link {
+  text-decoration: none;
+  color: #000000;
+}
+
